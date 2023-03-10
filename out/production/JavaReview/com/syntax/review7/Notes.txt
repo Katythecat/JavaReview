@@ -1,0 +1,17 @@
+what is a method
+- the block of code that execute the particular code then that code usually perform particular task
+- the block of code that perform the particular action
+why do we need method
+- re-usability, cleaner, readable
+
+
+Constructor
+- use for initialize the object
+
+Inheritance
+- when subclass acquire properties and behaviour from the parent class
+why do we need it
+- re-usability, to eliminate the code redundancy, to make the code cleaner and readable
+-more understandable
+how do we implement
+-

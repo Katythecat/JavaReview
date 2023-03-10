@@ -1,0 +1,29 @@
+Overriding - process when same method exist in super and subclass(must be inheritance)
+Why we do it
+-to provide  flexibility
+-give an ability to provide an implementation
+How to implement
+1.Inheritance
+2.Same signature (name+parameter)
+3.Same return type
+4.Same level of access modifier or higher
+
+Can I override private method - No
+- bc they don't participate in inheritance
+
+final keyword that identifies something is completed and no modification can be done
+
+final can be use with :
+    variables - makes variable constant we cannot change the value of that variable
+    methods - cannot override it nobody can provide different implementation
+    class - cannot be inherited
+
+abstraction - process of hiding implementation and showing only functionality
+why do we need it
+- reduce the complexity, improve maintainability and security
+How to implement abstraction?
+    By using Abstract classes - we can achieve 0 to 100% abstraction
+    By using Interfaces
+
+Abstract class -
+abstract keyword - (opposite from final) keyword that identifies something is Incomplete
