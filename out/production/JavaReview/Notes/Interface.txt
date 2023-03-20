@@ -1,0 +1,6 @@
+Interface
+similar to a class
+inside interface we can have collection of  public abstract method
+                                        and public static final variable
+
+how to create an interface
